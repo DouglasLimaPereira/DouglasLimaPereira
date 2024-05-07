@@ -1,16 +1,26 @@
-### Hi there 👋
+Olá, eu sou Douglas de Lima Pereira 👋
 
-<!--
-**DouglasLimaPereira/DouglasLimaPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DouglasLimaPereira&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglasLimaPereira&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<br>
+  <a href = "mailto:douglas.lpereira@aluno.unifametro.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/douglas-lima-a4b935190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br>
+
+- 👨🏾‍💻 Eu estou atualmente trabalhando como Tecnico de TI
+- 🎒 Eu estou Atualmente estudando LARAVEL
+- 🖥️ Eu estou procurando trabalhar com PHP/LARAVEL
+- 😄 Pronomes: Ele/Dele
