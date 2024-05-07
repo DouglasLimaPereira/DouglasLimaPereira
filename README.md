@@ -8,7 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasLimaPereira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DouglasLimaPereira&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/DouglasLimaPereira/)
 
 <p align="center">
@@ -22,30 +21,34 @@
 </div> 
  
 ### Main skills:
-<div align="center">
-<img align="center" alt="Douglas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />PHP&nbsp;
-<img align="center" alt="Douglas-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />LARAVEL&nbsp;
-<img align="center" alt="Douglas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript&nbsp;  
+<hr>
+<div align="">
+<img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg'> &nbsp;
+<img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg'> &nbsp;
+<img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'> &nbsp;
 </div>
 
 ### Tools:
-<div align="center">
-<img align="center" alt="Douglas-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> VS CODE&nbsp;
-<img align="center" alt="Douglas-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> GIT&nbsp;
+<hr>
+<div align="">
+  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'> &nbsp;
 </div>
 
 ### Other Knowledge:
-<div align="center">
-<img align="center" alt="Douglas-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> HTML5&nbsp;
-<img align="center" alt="Douglas-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> CSS3&nbsp;
-<img align="center" alt="Douglas-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/> BOOTSTRAP&nbsp;
-<img align="center" alt="Douglas-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MYSQL&nbsp;
+<hr>
+<div align="">
+  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'> &nbsp;
 </div>
 
 ### Studying in this moment:
-<div align="center">
-<img align="center" alt="Douglas-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/> LARAVEL&nbsp;
-<img align="center" alt="Douglas-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/> VUE.JS&nbsp;
+<hr>
+<div align="">
+  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg'> &nbsp;
 </div>
 
 <div align="center">
