@@ -1,9 +1,9 @@
 Olá, eu sou Douglas de Lima Pereira 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DouglasLimaPereira/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DouglasLimaPereira&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/DouglasLimaPereira/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglasLimaPereira&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
