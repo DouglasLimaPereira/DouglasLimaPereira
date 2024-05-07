@@ -1,5 +1,8 @@
-Olá, eu sou Douglas de Lima Pereira 👋
-
+Olá, eu sou Douglas de Lima Pereira 👋 <br>
+ 📌 👨🏾‍💻 Eu estou atualmente trabalhando como Tecnico de TI <br>
+ 📌 🎒 Atualmente Estudando Framework LARAVEL <br>
+ 📌 🖥️ Procurando uma vaga com Programador PHP/LARAVEL
+ 
 <a href="https://github.com/DouglasLimaPereira/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DouglasLimaPereira&theme=tokyonight" />
 </a>
@@ -21,11 +24,6 @@ Olá, eu sou Douglas de Lima Pereira 👋
 <br> <a href = "mailto:douglas.lpereira@aluno.unifametro.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/douglas-lima-a4b935190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
- 📌 👨🏾‍💻 Eu estou atualmente trabalhando como Tecnico de TI <br>
- 📌 🎒 Estudando LARAVEL <br>
- 📌 🖥️ Procurando uma vaga com Programador PHP/LARAVEL 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasLimaPereira/DouglasLimaPereira/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasLimaPereira/DouglasLimaPereira/output/github-contribution-grid-snake.svg">
