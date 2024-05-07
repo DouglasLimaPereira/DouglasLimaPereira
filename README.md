@@ -7,7 +7,7 @@ Olá, eu sou Douglas de Lima Pereira 👋
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglasLimaPereira&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/DouglasLimaPereira/">
   <img height=200 width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasLimaPereira&theme=tokyonight" />
 </a>
 
