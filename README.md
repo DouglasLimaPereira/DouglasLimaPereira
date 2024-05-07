@@ -8,7 +8,7 @@ Olá, eu sou Douglas de Lima Pereira 👋
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergeibak&theme=tokyonight" />
+  <img height=200 width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasLimaPereira&theme=tokyonight" />
 </a>
 
 <div style="display: inline_block"><br>
