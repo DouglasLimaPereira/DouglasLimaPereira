@@ -16,20 +16,16 @@ Olá, eu sou Douglas de Lima Pereira 👋
   <img align="center" alt="Douglas-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="Douglas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Douglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 
-<div>
-<br>
-  <a href = "mailto:douglas.lpereira@aluno.unifametro.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<br> <a href = "mailto:douglas.lpereira@aluno.unifametro.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/douglas-lima-a4b935190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
 
-- 👨🏾‍💻 Eu estou atualmente trabalhando como Tecnico de TI
-- 🎒 Eu estou Atualmente estudando LARAVEL
-- 🖥️ Eu estou procurando trabalhar com PHP/LARAVEL
-- 😄 Pronomes: Ele/Dele
+ 📌 👨🏾‍💻 Eu estou atualmente trabalhando como Tecnico de TI <br>
+ 📌 🎒 Estudando LARAVEL <br>
+ 📌 🖥️ Procurando uma vaga com Programador PHP/LARAVEL 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasLimaPereira/DouglasLimaPereira/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasLimaPereira/DouglasLimaPereira/output/github-contribution-grid-snake.svg">
