@@ -26,5 +26,9 @@ Olá, eu sou Douglas de Lima Pereira 👋
 - 🎒 Eu estou Atualmente estudando LARAVEL
 - 🖥️ Eu estou procurando trabalhar com PHP/LARAVEL
 - 😄 Pronomes: Ele/Dele
-
-![Snake animation](https://github.com/DouglasLimaPereira)
+- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglasLimaPereira/DouglasLimaPereira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DouglasLimaPereira/DouglasLimaPereira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DouglasLimaPereira/DouglasLimaPereira/output/github-contribution-grid-snake.svg">
+</picture>
