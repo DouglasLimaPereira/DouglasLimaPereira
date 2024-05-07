@@ -17,28 +17,36 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/_doug99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:douglas.lpereira@aluno.unifametro.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "mailto:douglas.lpereira@aluno.unifametro.edu.br"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/douglas-lima-a4b935190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
  
 ### Main skills:
+<div align="center">
 <img align="center" alt="Douglas-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />PHP&nbsp;
 <img align="center" alt="Douglas-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />LARAVEL&nbsp;
-<img align="center" alt="Douglas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript&nbsp;
+<img align="center" alt="Douglas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript&nbsp;  
+</div>
 
 ### Tools:
+<div align="center">
 <img align="center" alt="Douglas-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> VS CODE&nbsp;
 <img align="center" alt="Douglas-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> GIT&nbsp;
- 
+</div>
+
 ### Other Knowledge:
+<div align="center">
 <img align="center" alt="Douglas-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> HTML5&nbsp;
 <img align="center" alt="Douglas-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> CSS3&nbsp;
 <img align="center" alt="Douglas-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/> BOOTSTRAP&nbsp;
 <img align="center" alt="Douglas-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> MYSQL&nbsp;
-          
+</div>
+
 ### Studying in this moment:
+<div align="center">
 <img align="center" alt="Douglas-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/> LARAVEL&nbsp;
 <img align="center" alt="Douglas-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/> VUE.JS&nbsp;
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
