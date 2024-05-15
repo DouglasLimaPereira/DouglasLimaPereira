@@ -25,31 +25,32 @@
 <hr>
 <div align="">
 <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg'> &nbsp;
-<img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg'> &nbsp;
+<img align="center" alt="Douglas-LARAVEL" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg'> &nbsp;
 </div>
 
 ### Tools:
 <hr>
 <div align="">
-  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg'> &nbsp;
-  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-VSCODE" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-GIT" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-POSTMAN" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />        
 </div>
 
 ### Other Knowledge:
 <hr>
 <div align="">
-  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'> &nbsp;
-  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'> &nbsp;
-  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'> &nbsp;
-  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg'> &nbsp;
-  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-HTML5" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-CSS3" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-JS" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-BOOTSTRAP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-MYSQL" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'> &nbsp;
 </div>
 
 ### Studying in this moment:
 <hr>
 <div align="">
-  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg'> &nbsp;
-  <img align="center" alt="Douglas-PHP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-LARAVEL" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-VUE.JS" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg'> &nbsp;
 </div>
 
 <div align="center">
